@@ -1,7 +1,9 @@
 ---
-title: "First Post"
-date: 2021-01-25T16:44:30+05:45
-
+title: "Macroeconomic Indicators"
+date: 2021-01-14T07:55:03+05:45
 ---
 
-# Hello post
+# This is test image
+{{< figure src="/images/gdp_component.png" >}}
+
+This shows the different component of GDP by percentage.    
