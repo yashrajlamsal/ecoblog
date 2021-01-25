@@ -1,5 +1,5 @@
 ---
-title: "Macroeconomic Indicators"
+title: "Components of GDP"
 date: 2021-01-14T07:55:03+05:45
 ---
 
