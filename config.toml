@@ -1,4 +1,4 @@
 baseURL = "https://objective-hypatia-a3dded.netlify.app/"
 languageCode = "en-us"
 title = "Economic Indicators"
-theme = "ananke"
+theme = "contrast-hugo"
