@@ -2,3 +2,19 @@ baseURL = "https://ecoindica.com/"
 languageCode = "en-us"
 title = "Economic Indicators (Beta)"
 theme = "contrast-hugo"
+tags = ["blog"]
+features = ["blog"]
+
+[author]
+  name = "YRL"
+
+[params]
+  minimal = false
+  description = "my blog"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
