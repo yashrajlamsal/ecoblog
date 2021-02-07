@@ -1,5 +1,7 @@
 ---
-title: "About us"
-date: 2021-01-25T17:46:42+05:45
---- 
-Feedbak at email: ecoindica@gmail.com
+title: "About"
+description: ""
+featured_image: ''
+
+---
+This website is work in progress. We have been working to create more contents. Contact us at: ecoindica@gmail.com.
