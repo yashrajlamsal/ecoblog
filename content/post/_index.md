@@ -5,4 +5,4 @@ description: "Discription of different Economic Indicators"
 type: page
 
 ---
-Welcome to this. Work in progress, and we have been working on more content.
+This site is a work in progress, and we have been working on more content.
