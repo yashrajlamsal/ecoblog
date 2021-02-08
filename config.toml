@@ -1,12 +1,14 @@
 baseURL = "https://ecoindica.com/"
 languageCode = "en-us"
 title = "Economic Indicators (Beta)"
-theme = "contrast-hugo"
+theme = "ananke"
 tags = ["blog"]
 features = ["blog"]
 
+googleAnalytics = "G-31C4PJYWFE"
 
 SectionPagesMenu = "main"
+
 
 
 

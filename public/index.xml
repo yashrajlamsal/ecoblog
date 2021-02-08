@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Economic Indicators (Beta)</title>
+    <link>https://ecoindica.com/</link>
+    <description>Recent content on Economic Indicators (Beta)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ecoindica.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Components of GDP</title>
+      <link>https://ecoindica.com/post/first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecoindica.com/post/first-post/</guid>
+      <description>The components of Gross Domestic Product (GDP) GDP is divided into four parts: Consumption, Investment, Government Purchase, and Net Export. Net export is export minus import. These four parts are various forms of spending on domestically produced goods and services.
+US: GDP measured by components of demand   US Demand from Consumption, Investment and Government Purchase   Nepal: GDP measured by components of demand This shows the different component of GDP by percentage.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ecoindica.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecoindica.com/contact/</guid>
+      <description>Feedbak at email: ecoindica@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Historical Growth and Recession</title>
+      <link>https://ecoindica.com/post/article3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecoindica.com/post/article3/</guid>
+      <description>Historical Growth and Recession The graph shows the US quarterly data on real GDP from 1947 to 2020. Shaded vertical bars represent recession or contraction.   </description>
+    </item>
+    
+    <item>
+      <title>International Trade</title>
+      <link>https://ecoindica.com/post/article2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecoindica.com/post/article2/</guid>
+      <description>Nepal International Trade International Trade time series plot. This graph shows US export and import.
+  Nepal International Trade International Trade time series plot. This graph shows export import.   </description>
+    </item>
+    
+  </channel>
+</rss>
