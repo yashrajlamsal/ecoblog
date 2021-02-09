@@ -4,7 +4,7 @@ title: "Components of GDP"
 
 #### The components of Gross Domestic Product (GDP)
 GDP is divided into four parts: Consumption, Investment, Government Purchase, and Net Export. Net export is export minus import. These four parts are various forms of spending on domestically produced goods and services.
-#### US: GDP measured by components of demand
+#### US GDP measured by components of demand
 {{< figure src="/images/us/pie.svg">}}
 
 #### US Demand from Consumption, Investment and Government Purchase
