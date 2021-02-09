@@ -1,7 +1,7 @@
 baseURL = "https://ecoindica.com/"
 languageCode = "en-us"
 title = "Economic Indicators (Beta)"
-theme = "ananke"
+theme = "minimal"
 tags = ["blog"]
 features = ["blog"]
 
