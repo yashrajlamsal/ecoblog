@@ -2,7 +2,7 @@
 title: "International Trade"
 ---
 
-# Nepal International Trade
+# US International Trade
 International Trade time series plot. This graph shows US export and import.
 
 {{< figure src="/images/us/ei.svg">}}
