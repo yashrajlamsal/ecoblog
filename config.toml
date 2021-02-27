@@ -11,6 +11,18 @@ SectionPagesMenu = "main"
 
 
 
+[params]
+    author = "Calin Tataru"
+    description = "Major economic Indicators"
+    githubUsername = "#"
+    accent = "red"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "default"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+
 
 
 
