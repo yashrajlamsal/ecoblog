@@ -22,6 +22,12 @@ GDP is divided into four parts: Consumption, Investment, Government Purchase, an
 #### US Demand from Consumption, Investment and Government Purchase from the year 1929 to 2020
 {{< figure src="/images/us/cig.svg">}}
 
+# China
+#### China: GDP measured by components of demand for the year 2017
+This shows the different component of GDP by percentage.    
+{{< figure src="/images/cn/pie.svg">}}
+
+
 # India
 #### India: GDP measured by components of demand for the year 2017
 This shows the different component of GDP by percentage.    
@@ -53,4 +59,5 @@ This shows the different component of GDP by percentage.
 U.S. Department of Commerce: Bureau of Economic Analysis.\
 Federal Reserve Bank of St. Louis, One Federal Reserve Bank \
 Government of Nepal, National Planning Commission, Central Bureau Of Statistics \
-Khan Academy
+Khan Academy \
+THE WORLD FACTBOOK 
