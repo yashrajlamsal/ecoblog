@@ -7,14 +7,17 @@ GDP is divided into four parts: Consumption, Investment, Government Purchase, an
 
 #### Table: US GDP measured by components of demand for the year 2020 
 {{< table "table table-striped" >}}
-| Components  | Amount (trillions) | Percent |
-|-------------|--------------------|---------|
-| Consumption | $14.15             | 67.59%  |
-| Investment  | $3.60              | 17.20%  |
-| Government  | $3.83              | 18.30%  |
-| Exports     | $2.13              | 10.16%  |
-| Imports     | -$2.77            | -13.24% |
-| Total GDP   | $20.93             | 100.00% |
+
+| Components  | Amount (trillions of $) | Percent | Pie chart percent |
+|-------------|-------------------------|---------|-------------------|
+| Consumption | $14.15                  | 67.59%  | 53.43%            |
+| Investment  | $3.60                   | 17.20%  | 13.60%            |
+| Government  | $3.83                   | 18.30%  | 14.47%            |
+| Exports     | $2.13                   | 10.16%  | 8.03%             |
+| Imports     | ($2.77)                 | -13.24% | 10.47%            |
+| Total GDP   | $20.93                  | 100.00% | 100.00%           |
+
+
 {{</ table >}}
 
 {{< figure src="/images/us/pie.svg">}}
