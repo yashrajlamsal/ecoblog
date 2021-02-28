@@ -10,10 +10,9 @@ googleAnalytics = "G-31C4PJYWFE"
 SectionPagesMenu = "main"
 
 
-
 [params]
     author = "Calin Tataru"
-    description = "Major economic Indicators"
+    description = "[Click for Articles](https://ecoindica.com/post/)"
     githubUsername = "#"
     accent = "red"
     showBorder = true
@@ -21,7 +20,6 @@ SectionPagesMenu = "main"
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "default"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
 
 
