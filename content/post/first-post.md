@@ -1,5 +1,6 @@
 ---
 title: "Components of GDP"
+date: 2021-02-28
 ---
 
 ### The components of US Gross Domestic Product (GDP)
