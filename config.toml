@@ -1,7 +1,7 @@
 baseURL = "https://ecoindica.com/"
 languageCode = "en-us"
 title = "Economic Indicators (Beta)"
-theme = "minimal"
+theme = "beautifulhugo"
 tags = ["blog"]
 features = ["blog"]
 
@@ -11,7 +11,6 @@ SectionPagesMenu = "main"
 
 
 [params]
-    author = "Calin Tataru"
     description = "[Click for Articles](https://ecoindica.com/post/)"
     githubUsername = "#"
     accent = "red"

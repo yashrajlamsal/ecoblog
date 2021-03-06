@@ -14,3 +14,12 @@
 	path = themes/terminal
 	url = https://github.com/panr/hugo-theme-terminal.git
 
+[submodule "themes/beautifulhugo"]
+	path = themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "themes/hugo-theme-learn"]
+	path = themes/hugo-theme-learn
+	url = https://github.com/matcornic/hugo-theme-learn.git
+[submodule "themes/themes/terminal"]
+	path = themes/themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
