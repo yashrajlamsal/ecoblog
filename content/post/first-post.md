@@ -4,6 +4,7 @@ date: 2021-02-28
 ---
 
 ### The components of US Gross Domestic Product (GDP)
+{{< figure src="/images/us/pie.svg">}}
 GDP is divided into four parts: Consumption, Investment, Government Purchase, and Net Export. Net export is export minus import. These four parts are various forms of spending on domestically produced goods and services. The table shows the dollar value of components of the GDP and their percentage of the total. The table provides a percentage value of total for different components, where the share of import is subtracted. The pie chart only represents the comparative size of components of the GDP and discards negative sign of import.
 
 #### Table: US GDP measured by components of demand for the year 2020 
@@ -20,8 +21,6 @@ GDP is divided into four parts: Consumption, Investment, Government Purchase, an
 
 
 {{</ table >}}
-
-{{< figure src="/images/us/pie.svg">}}
 
 #### US Demand from Consumption, Investment and Government Purchase from the year 1929 to 2020
 {{< figure src="/images/us/cig.svg">}}
