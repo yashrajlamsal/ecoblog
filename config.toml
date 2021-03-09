@@ -1,7 +1,7 @@
 baseURL = "https://ecoindica.com/"
 languageCode = "en-us"
 title = "Economic Indicators"
-theme = "beautifulhugo"
+theme = ["hugo-chart", "beautifulhugo"]
 tags = ["blog"]
 features = ["blog"]
 
