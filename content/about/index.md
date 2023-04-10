@@ -6,4 +6,4 @@ type: page
 menu: main
 ---
 
-This website is a work in progress. We have been working to create more contents. Contact us @ ecoindica@gmail.com
+This website is a work in progress. We have been working to create more contents. Contact us @ yashrajlamsal@ku.edu.np
