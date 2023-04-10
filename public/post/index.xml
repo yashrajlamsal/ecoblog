@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on Economic Indicators (Beta)</title>
+    <title>Articles on Economic Indicators</title>
     <link>https://ecoindica.com/post/</link>
-    <description>Recent content in Articles on Economic Indicators (Beta)</description>
+    <description>Recent content in Articles on Economic Indicators</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ecoindica.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ecoindica.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Components of GDP</title>
       <link>https://ecoindica.com/post/first-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecoindica.com/post/first-post/</guid>
-      <description>The components of Gross Domestic Product (GDP) GDP is divided into four parts: Consumption, Investment, Government Purchase, and Net Export. Net export is export minus import. These four parts are various forms of spending on domestically produced goods and services.
-US: GDP measured by components of demand   US Demand from Consumption, Investment and Government Purchase   Nepal: GDP measured by components of demand This shows the different component of GDP by percentage.</description>
+      <description>The components of US Gross Domestic Product (GDP) GDP is divided into four parts: Consumption, Investment, Government Purchase, and Net Export. Net export is export minus import. These four parts are various forms of spending on domestically produced goods and services. The table shows the dollar value of components of the GDP and their percentage of the total. The table provides a percentage value of total for different components, where the share of import is subtracted.</description>
     </item>
     
     <item>
       <title>Historical Growth and Recession</title>
       <link>https://ecoindica.com/post/article3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecoindica.com/post/article3/</guid>
-      <description>US Historical Growth and Recession The graph shows the US quarterly data on real GDP from 1947 to 2020. Shaded vertical bars represent recession or contraction.   </description>
+      <description>US Historical Growth and Recession The graph shows the US quarterly data on real GDP from 1947 to 2020. Shaded vertical bars represent recession or contraction. </description>
     </item>
     
     <item>
       <title>International Trade</title>
       <link>https://ecoindica.com/post/article2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecoindica.com/post/article2/</guid>
-      <description>Nepal International Trade International Trade time series plot. This graph shows US export and import.
-  Nepal International Trade International Trade time series plot. This graph shows export import.   </description>
+      <description>US International Trade International Trade time series plot. This graph shows US export and import from 1929 to 2020.
+Nepal International Trade International Trade time series plot. This graph shows export import from 2000 to 2020. </description>
     </item>
     
   </channel>
