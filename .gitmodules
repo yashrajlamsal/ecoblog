@@ -23,3 +23,6 @@
 [submodule "themes/themes/terminal"]
 	path = themes/themes/terminal
 	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "hugo-PaperMod"]
+	path = hugo-PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
