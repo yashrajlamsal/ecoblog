@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Economic Indicators</title>
-    <link>https://ecoindica.com/</link>
-    <description>Recent content on Economic Indicators</description>
+    <title>Posts on Economic Indicators</title>
+    <link>https://ecoindica.com/posts/</link>
+    <description>Recent content in Posts on Economic Indicators</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2023 10:26:20 +0545</lastBuildDate><atom:link href="https://ecoindica.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Apr 2023 10:26:20 +0545</lastBuildDate><atom:link href="https://ecoindica.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>International Trade</title>
       <link>https://ecoindica.com/posts/internationaltrade/</link>
@@ -24,15 +24,6 @@ Nepal International Trade International Trade time series plot. This graph shows
       
       <guid>https://ecoindica.com/posts/growthandrecession/</guid>
       <description>US Historical Growth and Recession The graph shows the US quarterly data on real GDP from 1947 to 2020. Shaded vertical bars represent recession or contraction. Components Amount (Rs. Billions) Percent Consumption 2,650.1 70.4% Investment 1,889.3 50.2% Government 434.9 11.5% Exports 301.7 8.0% Imports -1,509.0 -40.1% Total GDP 3767.043 100.0% </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://ecoindica.com/about/</link>
-      <pubDate>Fri, 14 Apr 2023 10:06:36 +0545</pubDate>
-      
-      <guid>https://ecoindica.com/about/</guid>
-      <description>We would like to extend a warm welcome to our website, which has been developed by Yash Raj Lamsal, an assistant professor of economics at Kathmandu University. Our aim is to provide an exceptional learning experience to all students, educators, and individuals interested in understanding macroeconomic variables, their analysis, and data representation through visually appealing charts and graphs. Contact us at yashrajlamsal@gmail.com</description>
     </item>
     
     <item>
